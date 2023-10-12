@@ -1,3 +1,5 @@
+// projeto pausado...
+
 const img = document.getElementById('img');
 let colorIndex = 0;
 let intervalId = null;
